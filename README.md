@@ -4,9 +4,11 @@
  Skills: *JAVA* <img src="https://github.com/AleksandarDrljaca/AleksandarDrljaca/blob/main/java_919854.png" width="20" height="20" > / *PYTHON* <img src="https://github.com/AleksandarDrljaca/AleksandarDrljaca/blob/main/python_5968350.png" width="20" height="20" > / *C#*  <img src="https://github.com/AleksandarDrljaca/AleksandarDrljaca/blob/main/c-sharp.png" width="20" height="20" > / *MySQL* <img src="https://github.com/AleksandarDrljaca/AleksandarDrljaca/blob/main/database-storage_2906274.png" width="20" height="20" >
 
 
-## 📚 What I'm Currently Learning
+## 🌱 What I'm Currently Learning
 
 - **Full Stack Web Development**: I'm actively exploring the world of Web app development
+
+## 📚 I'm interested in Machine Learning
 
 ## Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/drljaca_aleksandar/)  
