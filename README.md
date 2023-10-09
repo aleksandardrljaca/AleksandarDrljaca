@@ -8,7 +8,7 @@
 
 - **Full Stack Web Development**: I'm actively exploring the world of Web app development
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/drljacaaleksandar/)  
+## Socials
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/drljaca_aleksandar/)  
 
 
