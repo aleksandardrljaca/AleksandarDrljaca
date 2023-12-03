@@ -9,7 +9,9 @@
 - **Full Stack Web Development**: I'm actively exploring the world of Web app development
 
 ## 📚 Interests
-- **Machine Learning**: Interested in this field but I don't have much time to devote myself deeply to this field right now
+Interested in these fields, but I don't have much time to devote myself deeply to them right now.
+- **Machine Learning**
+- **Embedded Systems**
 
 ## Socials
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/drljaca_aleksandar/)  
