@@ -10,7 +10,5 @@
 - **Web3 and Blockchain**
 
 ## Socials
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/drljaca_aleksandar/)  
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandardrljaca/)  
+ [<img src='<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandardrljaca/)  
 
