@@ -5,8 +5,7 @@
 
 
 ## 🌱 What I'm Currently Learning
-
-- **Full Stack Web Development**: I'm actively exploring the world of Web app development
+![Learning Web Development](https://img.shields.io/badge/Currently%20Learning-Web%20Development-blue?style=for-the-badge)
 
 ## 📚 Interests
 - **Machine Learning**
