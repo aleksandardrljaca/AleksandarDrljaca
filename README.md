@@ -4,9 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandardrljaca&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## What I'm Currently Learning
+## Currently Learning
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge" alt="Web Development"/>
   <img src="https://img.shields.io/badge/Mobile%20Development-green?style=for-the-badge" alt="Mobile Development"/>
 </p>
