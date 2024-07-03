@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Aleksandar
 
-🎓 Final-year Computer Science student
+#### 🎓 Final-year Computer Science student
 
-💡 Passionate about technology and continuous learning
+#### 💡 Passionate about technology and continuous learning
 
-🌐 Exploring the world of software development and beyond
+#### 🌐 Exploring the world of software development and beyond
 
-📚 Currently diving into 
+#### 📚 Currently diving into 
 <p>
   <img src="https://img.shields.io/badge/Web%20Development-yellow?style=for-the-badge" alt="Web Development"/>
   <img src="https://img.shields.io/badge/Mobile%20Development-green?style=for-the-badge" alt="Mobile Development"/>
