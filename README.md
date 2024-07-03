@@ -7,7 +7,7 @@
 ## Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Web%20Development-blue?style=for-the-badge" alt="Web Development"/>
+  <img src="https://img.shields.io/badge/Web%20Development-yellow?style=for-the-badge" alt="Web Development"/>
   <img src="https://img.shields.io/badge/Mobile%20Development-green?style=for-the-badge" alt="Mobile Development"/>
 </p>
 
@@ -18,5 +18,5 @@
 
 ## Socials
 [![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/aleksandardrljaca)
-<img src="https://img.shields.io/badge/Mobile%20Development-green?style=for-the-badge" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn%20-blue?style=for-the-badge" alt="LinkedIn"/>
 
