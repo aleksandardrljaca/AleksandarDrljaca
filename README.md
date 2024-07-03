@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Aleksandar
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandardrljaca&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandardrljaca&theme=cobalt) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandardrljaca&layout=compact)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aleksandardrljaca&theme=default&utcOffset=8) 
 
 ## 🌱 What I'm Currently Learning
 
