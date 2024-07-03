@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Aleksandar
 
+<div style="float: right; margin-left: 20px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandardrljaca&theme=cobalt" />
+</div>
+
 #### 🎓 Final-year Computer Science student
 
 #### 💡 Passionate about technology and continuous learning
@@ -12,17 +16,9 @@
   <img src="https://img.shields.io/badge/Mobile%20Development-green?style=for-the-badge" alt="Mobile Development"/>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandardrljaca&theme=cobalt) 
-
-
-
-
-
-
 ## 📚 Interests
 - **Machine Learning**
 - **Web3 and Blockchain**
 
 ## 📫 How to reach me:
 <a href="https://www.linkedin.com/in/aleksandardrljaca"><img src="https://img.shields.io/badge/LinkedIn%20-blue?style=for-the-badge" alt="LinkedIn"/></a>
-
