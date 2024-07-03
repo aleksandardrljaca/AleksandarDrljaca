@@ -18,5 +18,5 @@
 
 ## Socials
 [![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/aleksandardrljaca)
-<img <a>https://www.linkedin.com/in/aleksandardrljaca</a> src="https://img.shields.io/badge/LinkedIn%20-blue?style=for-the-badge" alt="LinkedIn"/>
+<img <a https://www.linkedin.com/in/aleksandardrljaca</a> src="https://img.shields.io/badge/LinkedIn%20-blue?style=for-the-badge" alt="LinkedIn"/>
 
