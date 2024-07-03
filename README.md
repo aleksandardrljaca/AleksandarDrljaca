@@ -7,14 +7,15 @@
 #### 🌐 Exploring the world of software development and beyond
 
 #### 📚 Currently diving into 
-<div style="float: right; margin-left: 20px;">
-  <p>
+<p>
   <img src="https://img.shields.io/badge/Web%20Development-yellow?style=for-the-badge" alt="Web Development"/>
   <img src="https://img.shields.io/badge/Mobile%20Development-green?style=for-the-badge" alt="Mobile Development"/>
 </p>
+<div style="float: right; margin-left: 20px;">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandardrljaca&theme=cobalt) 
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandardrljaca&theme=cobalt) 
+
 
 
 
