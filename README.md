@@ -18,4 +18,5 @@
 
 ## Socials
 [![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/aleksandardrljaca)
+<img src="https://img.shields.io/badge/Mobile%20Development-green?style=for-the-badge" alt="LinkedIn"/>
 
