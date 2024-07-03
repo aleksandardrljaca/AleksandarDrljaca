@@ -10,5 +10,5 @@
 - **Web3 and Blockchain**
 
 ## Socials
- [<img src='<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by riajulislam - Flaticon</a>' alt='linkedin' height='40'>](https://www.linkedin.com/in/aleksandardrljaca/)  
+[![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)](https://www.linkedin.com/in/aleksandardrljaca)
 
