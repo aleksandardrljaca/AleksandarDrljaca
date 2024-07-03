@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Aleksandar
 
-![Most used languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandardrljaca&theme=cobalt) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandardrljaca&theme=cobalt) 
 
 
 ## Currently Learning
