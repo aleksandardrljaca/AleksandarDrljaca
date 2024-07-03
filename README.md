@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Aleksandar
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aleksandardrljaca&theme=cobalt) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandardrljaca&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandardrljaca&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🌱 What I'm Currently Learning
