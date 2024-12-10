@@ -13,7 +13,7 @@
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandardrljaca&theme=cobalt) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandardrljaca&layout=compact)
 
 ## 📚 Interests
 - **Machine Learning**
