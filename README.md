@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Mobile%20Development-green?style=for-the-badge" alt="Mobile Development"/>
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aleksandardrljaca&theme=cobalt) 
 
 
 ## 📚 Interests
