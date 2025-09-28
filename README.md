@@ -16,6 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandardrljaca&layout=compact)
 
 ## 📚 Interests
+- **AI
 - **Machine Learning**
 - **Web3 and Blockchain**
 
