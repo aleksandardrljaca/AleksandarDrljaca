@@ -13,7 +13,7 @@
 </p>
 
 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandardrljaca&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandardrljaca)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Interests
 - **AI
