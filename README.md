@@ -17,7 +17,6 @@
 
 ## 📚 Interests
 - **AI**
-- **Machine Learning**
 - **Web3 and Blockchain**
 
 ## 📫 How to reach me:
