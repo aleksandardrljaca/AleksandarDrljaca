@@ -13,9 +13,7 @@
 </p>
 
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandardrljaca)](https://github.com/aleksandardrljaca/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandardrljaca)](https://github.com/aleksandardrljaca/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandardrljaca)](https://github.com/aleksandardrljaca/github-readme-stats)
 
 ## 📚 Interests
 - **AI
